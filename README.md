@@ -1,2 +1,1 @@
-# desafio-typescript
- Introdução Prática ao TypeScript
+# desafio-dio-IntroduçãoTypeScript
